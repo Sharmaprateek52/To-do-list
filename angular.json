@@ -119,6 +119,7 @@
           }
         }
       }
+<<<<<<< HEAD
     }
   },
   "defaultProject": "To-do-list",
@@ -126,3 +127,8 @@
     "analytics": false
   }
 }
+=======
+    }},
+  "defaultProject": "To-do-list"
+}
+>>>>>>> e5363fe... initial commit
